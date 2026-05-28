@@ -212,7 +212,7 @@ fig_q2.update_layout(
         'text':'Average Transaction Amount by Branch (Top 5)',
         'font':{'size':25}
     },
-        title_x=0.2,
+        title_x=0.3,
         xaxis=dict(
             tickfont=dict(size=14)
         ),
@@ -291,7 +291,7 @@ fig_q3.update_layout(
         'text':'The true peak sales hours during the day (Top 5)',
         'font':{'size':25}
     },
-        title_x=0.0,
+        title_x=0.3,
         xaxis=dict(
             tickfont=dict(size=14)
         ),
@@ -341,7 +341,7 @@ fig_q4.update_layout(
         size=20
     ),
     title={
-        'text':'Perfered Payment Method',
+        'text':'preferred Payment Method',
         'font':{'size':25}
     },
         title_x=0.3

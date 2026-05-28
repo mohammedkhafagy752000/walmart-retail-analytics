@@ -1,5 +1,5 @@
 /my_env
 /__pycache__
 *.zip
-*.csv
+Walmart.csv
 

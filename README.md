@@ -135,7 +135,7 @@ An interactive dashboard was developed using Streamlit and Plotly to provide rea
 # 📈 Dashboard Preview
 
 <p align="center">
-  <img src="walmart_dashboard.png" width="900">
+  <img src="walmart_Dashboard.png" width="900">
 </p>
 
 ---
@@ -151,8 +151,7 @@ Walmart-Retail-Analytics/
 ├── walmart_clean_data.csv
 ├── requirements.txt
 ├── README.md
-└── images/
-    └── dashboard.png
+└── walmart_Dashboard.png
 ```
 
 ---
@@ -162,8 +161,8 @@ Walmart-Retail-Analytics/
 ## 1. Clone the Repository
 
 ```bash
-git clone <repository-link>
-cd Walmart-Retail-Analytics
+git clone https://github.com/mohammedkhafagy752000/walmart-retail-analytics.git
+cd walmart-retail-analytics
 ```
 
 ## 2. Install Dependencies
